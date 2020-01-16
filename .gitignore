@@ -5,3 +5,4 @@ Library/PackageCache
 Library/StateCache
 Library/PlayerDataCache
 Library/webgl_cache
+Library/il2cpp_cache*
